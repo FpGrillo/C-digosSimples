@@ -9,16 +9,16 @@ int main()
 	setlocale(LC_ALL, "ptb");
 	
 	cout<<"Calculadora do Felpao\n";
-	cout<< "Digite os primeiros numeros da operação:";
+	cout<< "Digite os primeiros numeros da operaÃ§Ã£o:";
 	cin >> num1;
-	cout<< "Agora digite os segundos números:";
+	cout<< "Agora digite os segundos nÃºmeros:";
 	cin >> num2;
-	cout << "\n escolha a operação matemática \n";
-	cout << "1 = adição\n";
-	cout << "2 = subtração\n";
-	cout << "3 = mutiplicação\n";
-	cout << "4 = divisão\n";
-	cout << "Opção:";
+	cout << "\n escolha a operaÃ§Ã£o matemÃ¡tica \n";
+	cout << "1 = adiÃ§Ã£o\n";
+	cout << "2 = subtraÃ§Ã£o\n";
+	cout << "3 = mutiplicaÃ§Ã£o\n";
+	cout << "4 = divisÃ£o\n";
+	cout << "OpÃ§Ã£o:";
 	cin >> op;
 	
 	if (op==1)
@@ -48,7 +48,8 @@ int main()
 	{
 	
 	
-	cout << "Você está utilizandao a Calculadora do Felpão da forma errada";
+	cout << "VocÃª estÃ¡ utilizandao a Calculadora do FelpÃ£o da forma errada";
 	
 	} 
 }
+
